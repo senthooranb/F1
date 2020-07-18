@@ -1,0 +1,85 @@
+nav a{
+    color: rgba(255, 255, 255, 0.801);
+}
+
+nav a:hover{
+    color: rgba(255, 255, 255, 1);
+}
+
+header{
+    height: 24vh;
+    background: url(../images/f1.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 48%;
+}
+
+nav span.navbar-brand{
+    border: 0.5px double rgba(255, 255, 255, 1);
+    padding: 7px;
+}
+
+h1{
+    text-align: center;
+    background: rgba(255, 255, 255, 0.38);
+}
+
+h2{
+    margin-top: 7px;
+    padding-top: 14px;
+}
+
+p{
+    margin-top: 10px;
+}
+
+figure{
+    margin-top: 10px;
+}
+
+figure img{
+    display: block;
+    width: 100%;
+    max-width: 100%;
+}
+
+figcaption{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.even{
+    background: rgba(255, 0, 0, 0.1);
+}
+
+.odd{
+    background: rgba(136, 132, 132, 0.1);
+}
+
+.example {
+    max-height:60vh;
+}
+
+.example div {
+    max-height: 60vh;
+}
+
+section{
+    margin-top: 12px;
+}
+
+body{
+    background: rgba(136, 147, 253, 0.1);
+}
+
+tr:nth-child(odd){
+    background: rgba(255, 0, 0, 0.1);
+}
+
+td:nth-child(3){
+    text-align: center;
+}
+
+thead{
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+}
