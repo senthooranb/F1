@@ -83,3 +83,7 @@ thead{
     color: rgba(255, 255, 255, 1);
     text-align: center;
 }
+
+.active{
+       background: rgb(255, 20, 0);
+}
