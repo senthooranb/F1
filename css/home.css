@@ -85,5 +85,5 @@ thead{
 }
 
 .active{
-       background: rgb(255, 20, 0);
+       background: rgb(255, 20, 0) !important;
 }
