@@ -84,6 +84,43 @@ thead{
     text-align: center;
 }
 
-.active{
+nav .active{
        background: rgb(255, 20, 0) !important;
+}
+
+#social{
+    text-align: center;
+}
+
+footer p{
+    text-align: center;
+}
+
+.fa{
+    margin: 1px solid rgb(0,0,0);
+    padding: 2px;
+    text-align: center;
+}
+
+.fa-twitter{
+    background: rgb(29,161,242);
+    color: rgb(255,255,255);
+    border-radius: 50%;
+    padding: 12px;
+}
+
+.fa-facebook{
+    background: #3b5998;
+    color: rgb(255,255,255);
+    border-radius: 50%;
+    padding: 12px;
+    padding-right: 14px;
+}
+
+.fa-instagram{
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    color: rgb(255,255,255);
+    border-radius: 50%;
+    padding: 12px;
+    padding-right: 14px;
 }
